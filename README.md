@@ -215,6 +215,7 @@ Used memory: 46 MB
 
 ```
 The number of calls seems similar. An obvious difference is the processing time. 
+![profiling.png](img/profiling.png)
 
 ## Function tracing
 I added the following code to `FileAnalyser.php` in line 101 and then aroudn 320:
